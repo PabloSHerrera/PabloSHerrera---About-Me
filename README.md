@@ -1,4 +1,4 @@
-# PabloSHerrera---About-Me
+# About-Me
 
 Hi, I'm Pablo Sebastian Herrera 👋
 Applied Mathematician exploring the intersection of mathematics, AI, and computational finance.
